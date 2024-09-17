@@ -1,0 +1,20 @@
+{
+  "name": "devtinder",
+  "version": "1.0.0",
+  "description": "Node project ",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js"
+  },
+  "keywords": [
+    "Nodejs",
+    "expressJs",
+    "MongoDb"
+  ],
+  "author": "Rahul Gupta",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.0"
+  }
+}
